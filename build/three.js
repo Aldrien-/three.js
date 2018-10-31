@@ -22304,6 +22304,9 @@
 
 		this.shadowMap = shadowMap;
 
+		// Tweaks
+		this.objects = objects;
+
 		// API
 
 		this.getContext = function () {
